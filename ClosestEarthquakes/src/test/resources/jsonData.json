@@ -1,0 +1,264 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          0
+        ]
+      }
+    },
+    {ó
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80,
+          20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70,
+          30
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40,
+          60
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          70
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          80
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EQ no 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          0
+        ]
+      }
+    }
+  ]
+}
